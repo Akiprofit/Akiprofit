@@ -2,7 +2,9 @@
 
 I build small, offline-first apps and tools.
 
-## Featured project
+## Featured projects
+
+**[Avalon Companion](https://github.com/Akiprofit/avalon-companion)** — an offline Android Game Master for physical games of The Resistance: Avalon. One phone, 5-10 players, English and Filipino narration, and no player-to-role mapping anywhere. Released 1.0.0.
 
 **[AnoNga](https://github.com/Akiprofit/anonga)** — an offline English/Taglish conversation-card app for couples, friends, and solo reflection. 300 built-in questions, custom collections, CSV import, 17 card themes, Android + web.
 
